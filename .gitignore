@@ -1,0 +1,24 @@
+# KiCad backup and temporary files
+*.bak
+*.bak-*
+*.kicad_prl
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+
+# Lock files
+*.lck
+
+# DRC and ERC report files
+*.rpt
+
+# Local design rule cache files
+fp-info-cache
+
+# Manufacturing outputs (uncomment if you want to keep them out of git)
+# Gerbers/
+# *.gbr
+# *.drl
+# *.pdf
