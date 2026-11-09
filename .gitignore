@@ -22,3 +22,4 @@ fp-info-cache
 # *.gbr
 # *.drl
 # *.pdf
+.history/
